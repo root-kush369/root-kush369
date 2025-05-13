@@ -1,6 +1,5 @@
 <p align="center">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <lottie-player src="https://lottie.host/14d1dc93-3d87-4895-ad10-73c30c98c5ee/J6uYYuY94G.lottie.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVyZnV1ZjR0d2M2a2ZlNW5vMHkwbmswOHMyM3d5OTIxNjJ6d2M3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
 
 # **Hi, I'm Kush Bhardwaj** 👋
