@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=35&pause=1000&color=00E5FF&background=19191900&center=true&width=500&lines=Building+Interactive+Webapps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=FF0000&background=19191900&center=true&width=500&lines=Building+Interactive+Webapps&colorPattern=FF0000,00FF00,0000FF" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -16,31 +16,37 @@
 I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7F?style=flat&logoColor=white" alt="B.Tech in Computer Science"/> and am a fresher in web development, actively building my skills over the past 5 months through hands-on projects in **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, while exploring **React** to create modern applications. With a foundational background in programming, including past experience with **C++**, I’m passionate about crafting user-friendly interfaces and solving real-world problems through code.
 
 ## <img src="https://img.shields.io/badge/Skills-00CED1?style=flat&logoColor=white" alt="Skills"/> 🛠️  
-- **Languages**:  
-  <p align="center">
-    <b>HTML</b> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="25"/>  
-    <b>CSS</b> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="25"/>  
-    <b>JavaScript</b> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25"/>  
-  </p>
+### Languages  
+<p align="center">
+  <b>HTML</b> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="25"/>  
+  <b>CSS</b> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="25"/>  
+  <b>JavaScript</b> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25"/>  
+</p>
 
-- **Frameworks**:  
-  <p align="center">
-    <b>React</b> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="25"/>  
-    <b>Tailwind CSS</b> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="25"/>  
-  </p>
+### Frameworks  
+<p align="center">
+  <b>React</b> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="25"/>  
+  <b>Tailwind CSS</b> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="25"/>  
+</p>
 
-- **Tools**: Git, VS Code, Create React App, Vercel  
+### Tools  
+<p align="center">
+  <b>Git</b> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="25"/>  
+  <b>VS Code</b> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="25"/>  
+  <b>Create React App</b> <img src="https://img.shields.io/badge/Create_React_App-09D3AC?logo=react&logoColor=black" alt="Create React App" height="25"/>  
+  <b>Vercel</b> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="25"/>  
+</p>
 
-### <img src="https://img.shields.io/badge/Foundational_Skills-FFA500?style=flat&logoColor=black" alt="Foundational Skills"/> 📚  
-- **Languages (Past Experience)**:  
-  <p align="center">
-    <b>C++</b> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="25"/>  
-  </p>
+## <img src="https://img.shields.io/badge/Foundational_Skills-FFA500?style=flat&logoColor=black" alt="Foundational Skills"/> 📚  
+### Languages (Past Experience)  
+<p align="center">
+  <b>C++</b> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="25"/>  
+</p>
 
-- **OS Knowledge**:  
-  <p align="center">
-    <b>Red Hat Enterprise Linux (RHEL8)</b> <img src="https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat" height="25"/>  
-  </p>
+### OS Knowledge  
+<p align="center">
+  <b>Red Hat Enterprise Linux (RHEL8)</b> <img src="https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat" height="25"/>  
+</p>
 
 ## <img src="https://img.shields.io/badge/Featured_Projects-61DAFB?style=flat&logoColor=black" alt="Featured Projects"/> 🚀  
 - **<b>[Web-Development-Codes-Practice](https://github.com/root-kush369/Web-Development-Codes-Practice)</b>** - A collection of projects including a *Tic-Tac-Toe game*, *Password Generator*, and *Parallax websites* using HTML, CSS, and JavaScript.  
