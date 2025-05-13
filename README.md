@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="200"/>
+  <img src="https://lottie.host/14d1dc93-3d87-4895-ad10-73c30c98c5ee/J6uYYuY94G.lottie" alt="Coding GIF" width="200"/>
 </p>
 
 # **Hi, I'm Kush Bhardwaj** 👋
