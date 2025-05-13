@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=5B4AF0&background=19191900&center=true&width=500&lines=Building+Interactive+Webapps&colorPattern=FF0000,00FF00,0000FF" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=35&pause=1000&color=00E5FF&background=19191900&center=true&width=500&lines=Building+Interactive+Webapps" alt="Typing SVG"/>
 </p>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVyZnV1ZjR0d2M2a2ZlNW5vMHkwbmswOHMyM3d5OTIxNjJ6d2M3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300"/>
