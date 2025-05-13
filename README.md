@@ -1,7 +1,4 @@
-<p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A2&width=435&lines=Building+Interactive+Web+Apps)
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+sans&pause=1000&color=18F769&background=19191900&center=true&width=435&lines=Building+Interactive+Webapps)](https://git.io/typing-svg)
 # **Hi, I'm Kush Bhardwaj** 👋
 **Web Developer | HTML, CSS, JavaScript, React | Building interactive and responsive web applications.**
 
