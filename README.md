@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=40&pause=1000&color=FF00FF&background=19191900¢er=true&width=550&lines=Building+Interactive+Webapps&colorPattern=FF00FF,00FFFF,00FF00" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=45&pause=1000&color=FF0000&background=19191900¢er=true&width=200&lines=Building" alt="Building"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=45&pause=1000&color=00FF00&background=19191900¢er=true&width=300&lines=Interactive" alt="Interactive"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=45&pause=1000&color=0000FF&background=19191900¢er=true&width=200&lines=Webapps" alt="Webapps"/>
 </p>
 
 <p align="center">
