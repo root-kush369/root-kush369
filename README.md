@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansita&weight=700&size=27&pause=1000&color=0466F7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<p align="center">
+  <<img src="https://readme-typing-svg.demolab.com?font=Sansita&weight=700&size=27&pause=1000&color=0466F7&width=435&lines=Building+Interactive+Web+Apps" alt="Typing SVG" /> alt="Typing SVG"/>
+</p>
 
 
 
