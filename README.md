@@ -1,6 +1,6 @@
 <p align="center">
-  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/14d1dc93-3d87-4895-ad10-73c30c98c5ee/J6uYYuY94G.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <lottie-player src="https://lottie.host/14d1dc93-3d87-4895-ad10-73c30c98c5ee/J6uYYuY94G.lottie.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 </p>
 
 # **Hi, I'm Kush Bhardwaj** 👋
