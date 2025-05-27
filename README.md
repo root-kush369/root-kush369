@@ -53,7 +53,10 @@ I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7
 </p>
 
 ## <img src="https://img.shields.io/badge/Featured_Projects-61DAFB?style=flat&logoColor=black" alt="Featured Projects"/> 🚀  
-- **<b>[Web-Development-Codes-Practice](https://github.com/root-kush369/Web-Development-Codes-Practice)</b>** - A collection of projects including a *Tic-Tac-Toe game*, *Password Generator*, and *Parallax websites* using HTML, CSS, and JavaScript.  
+- **<b>[PassWord Generator](https://github.com/root-kush369/Password-Generator)</b>** - A practical password generator crafted with HTML, CSS, and JavaScript, offering customizable password options with a user-friendly design.
+- **<b>[Tic Tac Toe ](https://github.com/root-kush369/TicTacToeGame)</b>** - Tic Tac Toe - Timeless X and O Fun! Simple. Classic. Addictive. Made with HTML/CSS/JS 🎲🏆
+- **<b>[Personal Portfolio](https://github.com/root-kush369/WeatherSpark)</b>** - A responsive weather app built with HTML, CSS, and JavaScript to check local or city weather with a modern UI. Powered by the OpenWeatherMap API.
+- **<b>[Personal Portfolio](https://github.com/root-kush369/Top-Courses)</b>** - A React-based web app that fetches and displays educational courses from the CodeHelp API. Features include category filtering, interactive course cards with like/unlike functionality, and a responsive UI styled with Tailwind CSS. Built with Vite and deployed on Netlify.
 - **<b>[Personal Portfolio](https://github.com/root-kush369/Portfolio)</b>** - A responsive portfolio site showcasing my skills (coming soon, expected June 2025).
 
 ## <img src="https://img.shields.io/badge/Contact-38B2AC?style=flat&logoColor=white" alt="Contact"/> 📫  
