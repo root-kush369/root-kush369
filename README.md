@@ -59,6 +59,16 @@ I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7
 - **<b>[TopCourses](https://github.com/root-kush369/Top-Courses)</b>** - A React-based web app that fetches and displays educational courses from the CodeHelp API. Features include category filtering, interactive course cards with like/unlike functionality, and a responsive UI styled with Tailwind CSS. Built with Vite and deployed on Netlify.
 - **<b>[Personal Portfolio](https://github.com/root-kush369/Portfolio)</b>** - A responsive portfolio site showcasing my skills (coming soon, expected June 2025).
 
+## <img src="https://img.shields.io/badge/Coding_Profiles-FF6F61?style=flat&logoColor=white" alt="Coding Profiles"/> 💻  
+<p align="center">
+  <a href="https://leetcode.com/u/techkush777/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
+  </a> Explored C++ through algorithmic problem-solving on LeetCode.
+</p>
+
+ 
+
+
 ## <img src="https://img.shields.io/badge/Contact-38B2AC?style=flat&logoColor=white" alt="Contact"/> 📫  
 <p align="center">
   <a href="mailto:5kushbhardwaj7@gmail.com">
