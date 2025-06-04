@@ -27,7 +27,7 @@ I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7
   <b>JavaScript</b> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="25"/>  
 </p>
 
-### Frameworks  
+### Frameworks || Libraries
 <p align="center">
   <b>React</b> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="25"/>  
   <b>Tailwind CSS</b> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="25"/>  
