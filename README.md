@@ -57,7 +57,7 @@ I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7
 - **<b>[Tic Tac Toe ](https://github.com/root-kush369/TicTacToeGame)</b>** - Tic Tac Toe - Timeless X and O Fun! Simple. Classic. Addictive. Made with HTML/CSS/JS 🎲🏆
 - **<b>[WeatherSpark](https://github.com/root-kush369/WeatherSpark)</b>** - A responsive weather app built with HTML, CSS, and JavaScript to check local or city weather with a modern UI. Powered by the OpenWeatherMap API.
 - **<b>[TopCourses](https://github.com/root-kush369/Top-Courses)</b>** - A React-based web app that fetches and displays educational courses from the CodeHelp API. Features include category filtering, interactive course cards with like/unlike functionality, and a responsive UI styled with Tailwind CSS. Built with Vite and deployed on Netlify.
-- **<b>[Personal Portfolio](https://github.com/root-kush369/Portfolio)</b>** - A responsive portfolio site showcasing my skills (coming soon, expected June 2025).
+- **<b>[Personal Portfolio](https://github.com/root-kush369/Portfolio)</b>** - A responsive portfolio site showcasing my skills (coming soon, expected Aug 2025).
 
 ## <img src="https://img.shields.io/badge/Coding_Profiles-FF6F61?style=flat&logoColor=white" alt="Coding Profiles"/> 💻  
 <p align="center">
