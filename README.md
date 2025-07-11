@@ -52,7 +52,8 @@ I hold a <img src="https://img.shields.io/badge/B.Tech_in_Computer_Science-00FF7
   <b>Red Hat Enterprise Linux (RHEL8)</b> <img src="https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat" height="25"/>  
 </p>
 
-## <img src="https://img.shields.io/badge/Featured_Projects-61DAFB?style=flat&logoColor=black" alt="Featured Projects"/> 🚀  
+## <img src="https://img.shields.io/badge/Featured_Projects-61DAFB?style=flat&logoColor=black" alt="Featured Projects"/> 🚀 
+- **<b>[Reporting Mania]</b>** Reportify is a dynamic reporting tool built with React, Vite, and Tailwind CSS on the frontend, and Node.js, Express, and Supabase on the backend, enabling users to generate, filter, export (PDF), and schedule (email) reports for finance, HR, and CRM systems.
 - **<b>[PassWord Generator](https://github.com/root-kush369/Password-Generator)</b>** - A practical password generator crafted with HTML, CSS, and JavaScript, offering customizable password options with a user-friendly design.
 - **<b>[Tic Tac Toe ](https://github.com/root-kush369/TicTacToeGame)</b>** - Tic Tac Toe - Timeless X and O Fun! Simple. Classic. Addictive. Made with HTML/CSS/JS 🎲🏆
 - **<b>[WeatherSpark](https://github.com/root-kush369/WeatherSpark)</b>** - A responsive weather app built with HTML, CSS, and JavaScript to check local or city weather with a modern UI. Powered by the OpenWeatherMap API.
